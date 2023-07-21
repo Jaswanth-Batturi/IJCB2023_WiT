@@ -1,1 +1,1 @@
-### We will update soon.
+### C. Adak, B. Jaswanth, Z. Akhtar, A. Kåsen,  S. Chanda, “Writer Identification from Nordic Historical Manuscripts using Transformer Networks”, IEEE Int. Joint Conf. on Biometrics (IJCB), Ljubljana, Slovenia, 25-28 Sep., 2023.
