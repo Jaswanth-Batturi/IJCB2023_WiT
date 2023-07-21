@@ -91,7 +91,7 @@ test_ds = image_generator.flow_from_directory(batch_size=batch_size,
                                                 target_size=(img_h, img_w),
                                                 class_mode = 'categorical')
 
-patch_size = 16
+patch_size = 32
 num_patches = img_h // patch_size * img_w // patch_size
 
 class Patches(tf.keras.layers.Layer):
